@@ -5,9 +5,9 @@ public class Human {
 
 
 
-    public Human(String aniName){
+    public Human(String humName){
 
-        humanName = aniName;
+        humanName = humName;
 
     }
 
